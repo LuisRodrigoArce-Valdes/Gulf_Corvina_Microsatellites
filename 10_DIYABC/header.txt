@@ -1,0 +1,41 @@
+07_Curvina_HW-GENEPOP.txt
+6 parameters and 4 summary statistics
+
+1 scenarios: 3 
+scenario 1 [1.0] (3)
+Ne
+0 Sample 1
+t varNe 1 Na
+
+historical parameters priors (3,0)
+Ne N NO[10,7500,3500,1250]
+t T NO[10,20000,10000,4000]
+Na N NO[10,30000,8500,6000]
+
+loci description (8)
+Cac03 <A> [M] G1 2 46
+Tmac06 <A> [M] G1 2 12
+Cac14 <A> [M] G1 2 54
+Cac18 <A> [M] G1 2 28
+Cyne20 <A> [M] G1 2 40
+Soc418 <A> [M] G1 2 12
+Soc423 <A> [M] G1 2 4
+Soc609 <A> [M] G1 2 30
+
+group priors (1)
+group G1 [M]
+MEANMU UN[1.00E-004,1.00E-3,0.0005,2]
+GAMMU GA[1.00E-005,1.00E-002,Mean_u,2]
+MEANP UN[1.00E-001,3.00E-001,0.22,2]
+GAMP GA[1.00E-002,9.00E-001,Mean_P,2]
+MEANSNI LU[1.00E-008,1.00E-005,1.00E-007,2]
+GAMSNI GA[1.00E-009,1.00E-004,Mean_u_SNI,2]
+
+group summary statistics (4)
+group G1 [M] (4)
+NAL 1 
+HET 1 
+VAR 1 
+MGW 1 
+
+scenario      Ne            t             Na          µmic_1        pmic_1       snimic_1      NAL_1_1       HET_1_1       VAR_1_1       MGW_1_1    

@@ -1,0 +1,57 @@
+Output from NeEstimator v2.1
+Starting time: Mon Apr 18 19:30:39 2022
+Input File: "07_Curvina_HW-GENEPOP.txt"
+
+Number of Loci = 8
+
+LD mating model: Random
+
+(Symbol "No S*" in Frequency means that NO Singleton Alleles are accepted.)
+
+Population     1 [Co09-CO13]  (Number of Individuals = 187)
+****************
+--------------------------------------------------------------
+Lowest Allele Frequency Used     0.100       No S*         0+
+--------------------------------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =      187.0       187.0       187.0
+Independent Comparisons =        187        2458        3069
+OverAll r^2 =                 0.006059    0.005186    0.005734
+Expected r^2 Sample =         0.005439    0.005439    0.005439
+Estimated Ne^ =                  535.7    Infinite      1125.9
+
+95% CIs for Ne^
+* Parametric                     159.5      6734.8       559.5
+                              Infinite    Infinite     17465.2
+
+* JackKnife on Samples           127.5      1228.3       314.0
+                              Infinite    Infinite    Infinite
+
+
+HETEROZYGOTE EXCESS METHOD
+
+Harmonic Mean Sample Size =      187.0                   187.0 
+Independent Alleles =             21                      86  
+Weighted Mean D =              0.00705                -0.01452
+Estimated Neb^  =                 71.5                Infinite
+
+95% CIs for Nb:
+* Parametric                      16.1                    85.3
+                              Infinite                Infinite
+
+MOLECULAR COANCESTRY METHOD
+
+Harmonic Mean Sample Size =                              187.0
+OverAll f1^    =                                      -0.02274
+Estimated Neb^ =                                      Infinite
+
+95% CIs for Ne^
+* Jackknife on Loci                                   Infinite
+                                                      Infinite
+**************************************************************
+
+Ending time: Mon Apr 18 19:30:39 2022
+-------------------------------------
+

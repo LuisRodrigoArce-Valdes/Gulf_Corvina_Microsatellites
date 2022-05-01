@@ -1,0 +1,170 @@
+Resultados Microchecker
+Todas las muestras
+
+Locus: Cyne02
+	Total expected homozygotes: 10,04
+	Total observed homozygotes: 28
+
+	Analysis indicates homozygote excess at this locus.
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	Null alleles may be present at this locus, as is suggested by the general excess of 
+	homozygotes for most allele size classes.
+	
+Locus: Cac03
+	Total expected homozygotes: 26,173
+	Total observed homozygotes: 24
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	No evidence for null alleles.
+	
+Locus: Tmac03
+	Total expected homozygotes: 16,502
+	Total observed homozygotes: 25
+
+	Analysis indicates homozygote excess at this locus.
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	Null alleles may be present at this locus, as is suggested by the general excess of 
+	homozygotes for most allele size classes.
+	
+Locus: Tmac06
+	Total expected homozygotes: 103,548
+	Total observed homozygotes: 99
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	No evidence for null alleles.
+	
+Locus: Cyne12
+	Total expected homozygotes: 15,409
+	Total observed homozygotes: 49
+
+	Analysis indicates homozygote excess at this locus.
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	Null alleles may be present at this locus, as is suggested by the general excess of 
+	homozygotes for most allele size classes.
+	
+Locus: Cac13
+	Total expected homozygotes: 15,852
+	Total observed homozygotes: 28
+
+	Analysis indicates homozygote excess at this locus.
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	Null alleles may be present at this locus, as is suggested by the general excess of 
+	homozygotes for most allele size classes.
+	
+Locus: Cac14
+	Total expected homozygotes: 29,254
+	Total observed homozygotes: 36
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	No evidence for null alleles.
+	
+Locus: Cac18
+	Total expected homozygotes: 30,727
+	Total observed homozygotes: 28
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	No evidence for null alleles.
+	
+Locus: Cyne20
+	Total expected homozygotes: 126,933
+	Total observed homozygotes: 126
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	No evidence for null alleles.
+	
+Locus: Soc418
+	Total expected homozygotes: 65,497
+	Total observed homozygotes: 64
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	No evidence for null alleles.
+	
+Locus: Soc423
+	Total expected homozygotes: 122,978
+	Total observed homozygotes: 123
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	No evidence for null alleles.
+	
+Locus: Soc554
+	Total expected homozygotes: 29,417
+	Total observed homozygotes: 44
+
+	Analysis indicates homozygote excess at this locus.
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	Null alleles may be present at this locus, as is suggested by the general excess of 
+	homozygotes for most allele size classes.
+	
+Locus: Soc609
+	Total expected homozygotes: 42,933
+	Total observed homozygotes: 44
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	No evidence for null alleles.
+	
+Locus: Soc800
+	Total expected homozygotes: 80,625
+	Total observed homozygotes: 106
+
+	Analysis indicates homozygote excess at this locus.
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	Null alleles may be present at this locus, as is suggested by the general excess of 
+	homozygotes for most allele size classes.
+	
+Locus: Soc904
+	Total expected homozygotes: 10,229
+	Total observed homozygotes: 13
+
+	No evidence for scoring error due to stuttering.
+
+	No evidence for large allele dropout.
+
+	No evidence for null alleles.

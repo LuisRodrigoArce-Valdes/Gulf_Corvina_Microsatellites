@@ -1,0 +1,17 @@
+DIYABC :                      ABC parameter estimation                         Wed Apr 20 22:50:19 2022
+
+Data file       : 07_Curvina_HW-GENEPOP.txt
+Reference table : C:/Users/Rodrigo/Documents/Archivos/Curvina_Micros/03_Fisheries_Research/Analyses/15_DIYABC_Normal_2022_4_20-1/reftable.bin
+Transformation LOG of parameters
+Chosen scenario(s) : 1
+Number of simulated data sets : 1000000
+Number of selected data sets  : 10000
+
+Parameter          mean     median    mode      q025      q050      q250      q750      q950      q975
+------------------------------------------------------------------------------------------------------
+Ne               3.70e+003  3.63e+003  3.44e+003  1.86e+003  2.06e+003  2.94e+003  4.39e+003  5.57e+003  6.04e+003
+t                1.07e+004  1.06e+004  9.46e+003  3.18e+003  4.15e+003  7.78e+003  1.35e+004  1.75e+004  1.88e+004
+Na               5.89e+003  5.66e+003  5.22e+003  6.76e+002  1.20e+003  3.59e+003  7.90e+003  1.13e+004  1.24e+004
+µmic_1          7.13e-004  6.99e-004  5.83e-004  2.84e-004  3.32e-004  5.23e-004  8.95e-004  1.13e-003  1.19e-003
+pmic_1           2.91e-001  3.04e-001  3.35e-001  1.55e-001  1.76e-001  2.56e-001  3.36e-001  3.63e-001  3.69e-001
+snimic_1         1.93e-006  4.18e-007  2.00e-008  1.91e-008  2.24e-008  8.16e-008  2.09e-006  9.71e-006  1.23e-005
