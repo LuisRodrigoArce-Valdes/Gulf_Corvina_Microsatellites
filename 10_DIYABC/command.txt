@@ -16,3 +16,13 @@ Command launched for analysis 'Priors' : "C:\Users\Rodrigo\AppData\Local\Temp\_M
 
 Command launched for analysis 'Posteriors' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI17202\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/Archivos/Curvina_Micros/03_Fisheries_Research/Analyses/15_DIYABC_Normal_2022_4_20-1/" -e "s:1;n:1000000;m:10000;t:2;p:o" -i Posteriors -g 100 -m -t 8
 
+Command launched for analysis 'Bias' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI52522\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/Extras/DIYABC_post/" -b "s:1;n:1000000;m:10000;d:500;t:2;p:o;po" -i Bias -g 500 -m -t 8
+
+Command launched for analysis 'Model' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI52522\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/Extras/DIYABC_post/" -j "s:1;n:1000000;m:10000;t:2;p:ocs;v:;q:1000;a:pl" -i Model -g 100 -m -t 8
+
+Command launched for analysis 'bias' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI52522\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/Extras/DIYABC_post/" -b "s:1;n:1000000;m:10000;d:500;t:2;p:o;h:Na=15005.0 Ne=3755.0 t=10005.0;u:g1(0.00055 2 0.2 2 5.005e-06 2)" -i bias -g 500 -m -t 8
+
+Command launched for analysis 'Posteriors-logit' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI52522\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/Extras/DIYABC_post/" -e "s:1;n:1000000;m:10000;t:3;p:o" -i Posteriors-logit -g 100 -m -t 8
+
+Command launched for analysis 'CheckingModel' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI52522\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/Extras/DIYABC_post/" -j "s:1;n:1000000;m:10000;t:3;p:ocs;v:NAL_1_1 HET_1_1 VAR_1_1 MGW_1_1;q:1000;a:pl" -i CheckingModel -g 100 -m -t 8
+
