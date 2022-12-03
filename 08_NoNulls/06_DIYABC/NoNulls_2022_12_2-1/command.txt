@@ -1,0 +1,30 @@
+Command launched for initialization of RNGs of project 'NoNulls' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -n "t:8"
+
+Command launched for RNGs check of project 'NoNulls' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -z "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/RNG_state_0000.bin"
+
+Command launched : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -r 100000 -g 100 -m -t 8
+
+Command launched for analysis 'Prior100k' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -d "a:pl" -i Prior100k -g 100 -m -t 8
+
+Command launched for analysis 'Posterior100k' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -e "s:1;n:100000;m:1000;t:3;p:ocs" -i Posterior100k -g 100 -m -t 8
+
+Command launched for RNGs check of project 'NoNulls' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -z "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/RNG_state_0000.bin"
+
+Command launched : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -r 100000 -g 100 -m -t 8
+
+Command launched for analysis 'Prior100k' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -d "a:pl" -i Prior100k -g 100 -m -t 8
+
+Command launched for analysis 'Posterior100k' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -e "s:1;n:100000;m:1000;t:3;p:ocs" -i Posterior100k -g 100 -m -t 8
+
+Command launched for analysis 'PosteriorPCA100k' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -j "s:1;n:100000;m:1000;t:3;p:ocs;v:;q:1000;a:pl" -i PosteriorPCA100k -g 100 -m -t 8
+
+Command launched for RNGs check of project 'NoNulls' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -z "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/RNG_state_0000.bin"
+
+Command launched : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -r 1000000 -g 100 -m -t 8
+
+Command launched for analysis 'Prior1M' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -d "a:pl" -i Prior1M -g 100 -m -t 8
+
+Command launched for analysis 'Posterior1M' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -e "s:1;n:1000000;m:10000;t:3;p:ocs" -i Posterior1M -g 100 -m -t 8
+
+Command launched for analysis 'PosteriorPCA1M' : "C:\Users\Rodrigo\AppData\Local\Temp\_MEI48162\data\bin\diyabc-comput-win-i386" -p "C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/" -j "s:1;n:1000000;m:10000;t:3;p:ocs;v:;q:1000;a:pl" -i PosteriorPCA1M -g 100 -m -t 8
+
