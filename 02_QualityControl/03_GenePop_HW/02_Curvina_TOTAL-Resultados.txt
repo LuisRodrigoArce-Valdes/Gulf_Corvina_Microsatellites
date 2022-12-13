@@ -1,0 +1,52 @@
+Genepop 4.7.5: Hardy-Weinberg test
+
+File: 055853 (Curvina_golfina)
+
+Number of populations detected:    1
+Number of loci detected:           15
+
+
+Estimation of exact P-Values by the Markov chain method. 
+---------------------------------------------
+Markov chain parameters for all tests:
+Dememorization:              1000
+Batches:                     1000
+Iterations per batch:        10000
+Hardy Weinberg: Probability test
+        ************************
+
+
+
+==========================================
+     Results by population
+==========================================
+
+
+Pop : Co17-82 
+-----------------------------------------
+                             Fis estimates
+                            ---------------
+locus       P-val   S.E.    W&C     R&H     Steps 
+----------- ------- ------- ------- ------- ------
+Cyne02      0.0001  0.0001   0.1041  0.0781 300034 switches
+Cac03       0.5554  0.0065  -0.0108  0.0081 532280 switches
+Tmac03      0.0496  0.0023   0.0525  0.0418 646635 switches
+Tmac06      0.9499  0.0009  -0.0518 -0.0159 512175 switches
+Cyne12      0.0000  0.0000   0.1983  0.1171 546868 switches
+Cac13       0.1622  0.0078   0.0736  0.0329 159140 switches
+Cac14       0.6133  0.0076   0.0454  0.0721 362469 switches
+Cac18       0.9694  0.0010  -0.0148 -0.0128 1002640 switches
+Cyne20      0.4907  0.0060  -0.0129 -0.0019 170243 switches
+Soc418      0.9660  0.0004  -0.0096 -0.0164 1997480 switches
+Soc423      1.0000  0.0000   0.0030  0.0030 8312547 switches
+Soc554      0.0072  0.0012   0.0952  0.1259 314997 switches
+Soc609      0.5316  0.0044   0.0101  0.0043 879649 switches
+Soc800      0.0001  0.0000   0.2411  0.2499 615749 switches
+Soc904      0.0168  0.0016   0.0184  0.0383 348165 switches
+
+All (Fisher's method):
+ Chi2 :     > 102.9539
+ Df   :    30
+ Prob :     < 6.31e-10
+
+Normal ending

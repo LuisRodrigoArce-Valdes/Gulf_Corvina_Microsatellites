@@ -1,0 +1,59 @@
+# This document produced by structureHarvester core version vA.2 July 2014
+# http://www.structureharvester.com/
+# https://github.com/dentearl/structureHarvester/
+# http://taylor0.biology.ucla.edu/structureHarvester
+# http://users.soe.ucsc.edu/~dearl/software/structureHarvester
+# Written by Dent Earl, dearl (a) soe ucsc edu.
+# CITATION:
+# Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+# STRUCTURE HARVESTER: a website and program for visualizing
+# STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+# Core version: vA.2 July 2014
+# File generated at 2022-Dec-02 10:07:31 PST
+#
+
+##########
+# K	Reps	mean est. LnP(Data)	stdev est. LnP(Data)
+1	5	-7533.660000	0.610737
+2	5	-7542.120000	14.680497
+3	5	-7578.260000	62.253136
+4	5	-7573.980000	13.215029
+5	5	-7618.700000	20.753554
+
+##########
+# File name	Run #	K	Est. Ln prob. of data	Mean value of Ln likelihood	Variance of Ln likelihood
+ResultsCorvina_run_3_f	3	1	-7533.4	-7492.8	81.3
+ResultsCorvina_run_4_f	4	1	-7533.5	-7492.7	81.6
+ResultsCorvina_run_2_f	2	1	-7533.6	-7492.8	81.7
+ResultsCorvina_run_1_f	1	1	-7533.1	-7492.6	81.1
+ResultsCorvina_run_5_f	5	1	-7534.7	-7492.8	83.9
+ResultsCorvina_run_10_f	10	2	-7536.7	-7464.2	144.8
+ResultsCorvina_run_9_f	9	2	-7531.6	-7465.9	131.6
+ResultsCorvina_run_8_f	8	2	-7567.8	-7469.8	196.0
+ResultsCorvina_run_6_f	6	2	-7534.5	-7465.0	139.1
+ResultsCorvina_run_7_f	7	2	-7540.0	-7462.0	156.0
+ResultsCorvina_run_12_f	12	3	-7689.4	-7459.1	460.5
+ResultsCorvina_run_15_f	15	3	-7554.7	-7462.5	184.3
+ResultsCorvina_run_11_f	11	3	-7553.5	-7465.5	176.0
+ResultsCorvina_run_13_f	13	3	-7548.9	-7462.1	173.5
+ResultsCorvina_run_14_f	14	3	-7544.8	-7465.8	158.0
+ResultsCorvina_run_19_f	19	4	-7578.5	-7452.8	251.4
+ResultsCorvina_run_20_f	20	4	-7589.8	-7448.9	281.8
+ResultsCorvina_run_18_f	18	4	-7571.5	-7453.4	236.2
+ResultsCorvina_run_16_f	16	4	-7553.6	-7453.5	200.2
+ResultsCorvina_run_17_f	17	4	-7576.5	-7445.0	263.1
+ResultsCorvina_run_22_f	22	5	-7632.2	-7448.9	366.6
+ResultsCorvina_run_25_f	25	5	-7603.0	-7456.2	293.5
+ResultsCorvina_run_23_f	23	5	-7590.7	-7448.8	283.8
+ResultsCorvina_run_21_f	21	5	-7639.0	-7448.1	381.7
+ResultsCorvina_run_24_f	24	5	-7628.6	-7455.6	346.0
+
+Software written by Dent Earl while at EEB Dept, UCLA, BME Dept UCSC
+dearl (a) soe ucsc edu
+CITATION:
+Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+STRUCTURE HARVESTER: a website and program for visualizing
+STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+Core version: vA.2 July 2014

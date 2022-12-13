@@ -1,0 +1,24 @@
+Migraine 0.5.4 (Built on Jun 11 2018 at 11:38:19)
+blackbox, version 1.1.32 loaded
+R code run on  Fri Dec 09 20:58:29 2022
+
+Data file: C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/07_Nulls10/07_Migraine/01_Curvina_Nulls10-GENEPOP.txt
+Settings file: migraine_gui.txt
+
+Demographic model: OnePop
+Canonical parameters: pGSM 2Nmu
+* N stands for number of gene copies, 
+    i.e. 2N = 4 x [the number of diploid individuals] *
+
+(!) Estimated smoothness parameter <3.95: likelihood prediction may be very poor
+
+*** Confidence intervals *** 
+
+95%-coverage confidence interval for 2Nmu : [ 4.804 -- 7.059 ]
+
+*** Point estimates *** 
+
+   pGSM   2Nmu
+  0.765  5.836
+
+Normal ending.

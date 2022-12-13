@@ -1,0 +1,42 @@
+
+
+%%%%%%%%%% INPUT FILE PARAMETERS %%%%%%%%%%%%
+GenepopFileName = C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/04_NoNulls/08_Migraine/01_Curvina_NoNulls-GENEPOP.txt
+InputCheck = false
+Pause = nopause
+
+
+%%%%%%%%%% MODEL PARAMETERS %%%%%%%%%%%%
+DemographicModel = OnePop
+MutationModel = GSM
+SMMstepSizes = 
+GivenK = 
+LociPerModel = 8
+Loci = all
+LowerBound = 0.01, 0.001
+UpperBound = 0.9, 10
+SamplingScale = , 
+
+
+%%%%%%%%%% GEOMETRY PARAMETERS %%%%%%%%%%%%
+
+%%%%%%%%%% LIKELIHOOD %%%%%%%%%%%%
+StatisticSequence = isstrict
+Nrunsperpoint = 100
+PointNumber = 250
+WriteSequence = readPoints, append
+NextBounds = PointsFromR
+NextBoundsLevel = 0.001
+PointSamplingSeed = 67144630
+EstimationSeed = 67144630
+
+%%%%%%%%%% SMOOTHING %%%%%%%%%%%%
+KrigScale = ,
+
+%%%%%%%%%% CI-LRT %%%%%%%%%%%%
+OneDimCI = 2Nmu
+CIErrorLevel = 0.05
+
+%%%%%%%%%% GRAPHICS %%%%%%%%%%%%
+GraphicFormat = eps
+GridSteps = 35

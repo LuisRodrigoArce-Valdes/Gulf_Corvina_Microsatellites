@@ -1,0 +1,2 @@
+To run simply paste both input files, i. e., "01_Curvina_TOTAL-PyPop.txt" and "02_config.ini" in the directory where PyPop was extracted and run the software by double - clicking and writing input file names. Version for windows at:
+http://www.pypop.org/PyPopWin32-0.7.0.zip

@@ -1,0 +1,57 @@
+Output from NeEstimator v2.1
+Starting time: Fri Dec 02 16:02:08 2022
+Input File: "01_Curvina_Nulls10-GENEPOP.txt"
+
+Number of Loci = 11
+
+LD mating model: Random
+
+(Symbol "No S*" in Frequency means that NO Singleton Alleles are accepted.)
+
+Population     1 [Co09-CO13]  (Number of Individuals = 187)
+****************
+--------------------------------------------------------------
+Lowest Allele Frequency Used     0.100       No S*         0+
+--------------------------------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =      187.0       187.0       187.0
+Independent Comparisons =        374        9959       12316
+OverAll r^2 =                 0.005706    0.005156    0.005256
+Expected r^2 Sample =         0.005439    0.005439    0.005439
+Estimated Ne^ =                 1246.9    Infinite    Infinite
+
+95% CIs for Ne^
+* Parametric                     279.9    Infinite    Infinite
+                              Infinite    Infinite    Infinite
+
+* JackKnife on Samples           199.1      4943.9      1808.5
+                              Infinite    Infinite    Infinite
+
+
+HETEROZYGOTE EXCESS METHOD
+
+Harmonic Mean Sample Size =      187.0                   187.0 
+Independent Alleles =             29                     168  
+Weighted Mean D =             -0.01296                -0.03843
+Estimated Neb^  =             Infinite                Infinite
+
+95% CIs for Nb:
+* Parametric                      36.4                Infinite
+                              Infinite                Infinite
+
+MOLECULAR COANCESTRY METHOD
+
+Harmonic Mean Sample Size =                              187.0
+OverAll f1^    =                                      -0.01194
+Estimated Neb^ =                                      Infinite
+
+95% CIs for Ne^
+* Jackknife on Loci                                   Infinite
+                                                      Infinite
+**************************************************************
+
+Ending time: Fri Dec 02 16:02:08 2022
+-------------------------------------
+

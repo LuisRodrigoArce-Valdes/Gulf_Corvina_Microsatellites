@@ -1,0 +1,14 @@
+DIYABC :                   PRIOR CHECKING                         Fri Dec 02 17:45:15 2022
+
+Data file                     : 01_Curvina_NoNulls-GENEPOP.txt
+Reference table               : C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/reftable.bin
+Number of simulated data sets : 100000
+
+Values indicate for each summary statistics the proportion 
+of simulated data sets which have a value below the observed one
+ Summary           observed    scenario   
+statistics           value         1      
+NAL_1_1            (11.7500 )   0.9608 (*)     
+HET_1_1            (0.6354  )   0.2779         
+VAR_1_1            (5.5281  )   0.5897         
+MGW_1_1            (0.7833  )   0.0524         

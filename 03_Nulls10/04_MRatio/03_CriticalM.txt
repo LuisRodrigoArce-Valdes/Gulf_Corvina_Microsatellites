@@ -1,0 +1,11 @@
+11 loci
+sample size = 374
+4*Ne*(mutation rate) = 5.189
+% larger mutations = 0.1
+mean larger mutation size = 3.5
+Please wait...
+Mean M = 0.83121
+95% of equilibrium values of M should be above
+Mc = 0.747258
+where M = number of alleles / range in allele size
+and range = (size of largest allele - size of smallest allele + 1

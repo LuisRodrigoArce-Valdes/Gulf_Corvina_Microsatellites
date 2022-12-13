@@ -1,0 +1,14 @@
+DIYABC :                      ABC parameter estimation                         Fri Dec 02 18:48:07 2022
+
+Data file       : 01_Curvina_NoNulls-GENEPOP.txt
+Reference table : C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/08_NoNulls/06_DIYABC/NoNulls_2022_12_2-1/reftable.bin
+Transformation LOGIT of parameters
+Chosen scenario(s) : 1
+Number of simulated data sets : 1000000
+Number of selected data sets  : 10000
+
+Parameter          mean     median    mode      q025      q050      q250      q750      q950      q975
+------------------------------------------------------------------------------------------------------
+Ne/Mean(N)       1.00e+000  1.00e+000  1.00e+000  1.00e+000  1.00e+0001.00e+000  1.00e+000  1.00e+000  1.00e+000
+t/Mean(N)        2.92e+000  2.64e+000  2.04e+000  6.70e-001  8.93e-0011.79e+000  3.72e+000  5.86e+000  6.76e+000
+Na/Mean(N)       1.35e+000  1.11e+000  7.10e-001  1.15e-001  2.07e-0016.42e-001  1.76e+000  3.30e+000  4.07e+000

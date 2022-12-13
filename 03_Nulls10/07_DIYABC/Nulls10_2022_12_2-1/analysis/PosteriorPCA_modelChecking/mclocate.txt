@@ -1,0 +1,16 @@
+DIYABC :                   POSTERIOR CHECKING                         Fri Dec 02 19:18:01 2022
+
+Data file       : 01_Curvina_Nulls10-GENEPOP.txt
+Reference table : C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/07_Nulls10/06_DIYABC/Nulls10_2022_12_2-1/reftable.bin
+Chosen scenario : 1
+Number of simulated data sets used to compute posterior    : 100000
+Number of simulated data sets used in the local regression : 1000
+Number of data sets simulated from the posterior           : 1000
+Transformation of parameters : Logit
+
+ summary           observed       proportion   
+statistics           value    (simulated<observed)
+NAL_1_1             16.2727        0.9790 (*)     
+HET_1_1             0.7054         0.0300 (*)     
+VAR_1_1             11.3925        0.4610         
+MGW_1_1             0.7783         0.0240 (*)     

@@ -1,0 +1,55 @@
+Output from NeEstimator v2.1
+Starting time: Fri Dec 02 15:54:42 2022
+Input File: "01_Curvina_Nulls10-GENEPOP.txt"
+
+Number of Loci = 11
+
+LD mating model: Random
+
+Population     1 [Co09-CO13]  (Number of Individuals = 187)
+****************
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Lowest Allele Frequency Used     0.090       0.080       0.070       0.060       0.050       0.040       0.030       0.020       0.010         0+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =      187.0       187.0       187.0       187.0       187.0       187.0       187.0       187.0       187.0       187.0
+Independent Comparisons =        457         457         518         753        1030        1487        2115        2911        6291       12316
+OverAll r^2 =                 0.005554    0.005554    0.005546    0.005627    0.005358    0.005162    0.005241    0.005198    0.005324    0.005256
+Expected r^2 Sample =         0.005439    0.005439    0.005439    0.005439    0.005439    0.005439    0.005439    0.005439    0.005439    0.005439
+Estimated Ne^ =                 2899.0      2899.0      3118.5      1770.7    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite
+
+95% CIs for Ne^
+* Parametric                     363.5       363.5       390.3       413.2       803.5      2899.8      2514.4      9071.3      4384.7    Infinite
+                              Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite
+
+* JackKnife on Samples           240.8       267.6       192.0       242.6       561.3       935.8       957.6      2170.4      1838.2      1808.5
+                              Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite
+
+
+HETEROZYGOTE EXCESS METHOD
+
+Harmonic Mean Sample Size =      187.0       187.0       187.0       187.0       187.0       187.0       187.0       187.0       187.0       187.0 
+Independent Alleles =             32          32          34          41          48          58          69          81         120         168  
+Weighted Mean D =             -0.02243    -0.02243    -0.02154    -0.02036    -0.01751    -0.02655    -0.02375    -0.02586    -0.04935    -0.03843
+Estimated Neb^  =             Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite
+
+95% CIs for Nb:
+* Parametric                      88.4        88.4        88.2       119.0       120.3    Infinite    Infinite    Infinite    Infinite    Infinite
+                              Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite    Infinite
+
+MOLECULAR COANCESTRY METHOD
+
+Harmonic Mean Sample Size =                                                                                                                  187.0
+OverAll f1^    =                                                                                                                          -0.01194
+Estimated Neb^ =                                                                                                                          Infinite
+
+95% CIs for Ne^
+* Jackknife on Loci                                                                                                                       Infinite
+                                                                                                                                          Infinite
+**************************************************************************************************************************************************
+
+Ending time: Fri Dec 02 15:54:42 2022
+-------------------------------------
+

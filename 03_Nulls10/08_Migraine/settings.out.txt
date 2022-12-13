@@ -1,0 +1,47 @@
+
+=============================================
+This is Migraine version 0.5.4 (Built on Jun 11 2018 at 11:38:19).
+Likelihood analysis of genetic data
+based on the de Iorio & Griffiths algorithms.
+=============================================
+Local operating system is Windows
+with 1 core allocated for R analyses.
+=============================================
+Statistical model:
+Single population model with constant population size;
+Generalised stepwise mutation model
+=============================================
+Algorithm:
+Importance Sampling.
+=============================================
+Sample:
+Genepop file name: C:/Users/Rodrigo/Documents/GitHub/Gulf_Corvina_Microsatellites/07_Nulls10/07_Migraine/01_Curvina_Nulls10-GENEPOP.txt
+ (Write/Read ad hoc files? Write: false; Read: false)
+Number of loci as given by Genepop file (more info below)
+=============================================
+Two Parameters (pGSM,Theta) explored:
+*** (Initial) parameter range ***
+pGSM,2*Nh*u
+lower bound: 0.01 0.001 
+upper bound: 0.9 10 
+=============================================
+Numerical options:
+Pi computation by D&G algorithm using specific solutions for PIM & SMM mutation models (PiOnePop);
+Migraine computation and kriging (once).
+=============================================
+Kriging: 
+The blackbox R package will be used.
+Matern covariance family;
+         scale parameter(s) estimated by generalized cross-validation (GCV);
+         Matern smoothness parameter estimated by GCV
+=============================================
+Likelihood ratio test:
+Standard likelihood ratio profiles & LRT
+=============================================
+250 parameter points (first iteration)
+100 sampled tree(s) per locus 
+1 job(s) to run (multilocus sample(s) to analyse) on 1 processor(s)
+
+
+11 informative loci found
+
