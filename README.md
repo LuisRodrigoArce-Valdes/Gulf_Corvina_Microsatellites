@@ -33,3 +33,6 @@ Each of the two previous directories contains the same subdirectories on each do
 	+ `03_Nulls10 & 04_NoNulls/08_Migraine/`: Maximum Likelihood estimation of Ne.
 	+ `03_Nulls10 & 04_NoNulls/09_MsVar/`: Bayesian coalescence demographic inference.
 	+ `03_Nulls10 & 04_NoNulls/10_InEst/`: Model testing for significant inbreeding.
+	
+Finally we have included an Excel file with generation time estimations:
++ `GenerationTime.xlsx`
